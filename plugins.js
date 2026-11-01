@@ -193,7 +193,7 @@ export const loadPlugins = async (oscdShell) => {
         },
         icon: "add_box",
         requireDoc: true,
-        src: "./plugins/oscd-editor-sld-temp/oscd-editor-sld.js",
+        src: "https://ca-d.github.io/oscd-designer/oscd-editor-sld.js",
       },
       // {
       //   name: "SLD Designer (new)",
