@@ -262611,6 +262611,7 @@ const loadPlugins = async (oscdShell) => {
       //   requireDoc: true,
       //   src: "./plugins/scl-bay-template/scl-bay-template.js",
       // },
+	    /*
       {
         name: "Communication",
         translations: { de: "Kommunikation" },
@@ -262700,6 +262701,7 @@ const loadPlugins = async (oscdShell) => {
           },
         ],
       },
+      */
       {
         name: "Tools",
         translations: { de: "Werkzeuge" },
